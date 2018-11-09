@@ -1,0 +1,13 @@
+{
+  "name": "kpf-vs-electron",
+  "version": "0.0.0",
+  "description": "KpfVsElectron",
+  "main": "app.js",
+  "author": {
+    "name": "Kyle"
+  },
+  "dependencies": {
+    "electron-edge-js": "8.3.8",
+    "electron-prebuilt-win": "^3.0.2"
+  }
+}
